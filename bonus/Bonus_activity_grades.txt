@@ -1,0 +1,8 @@
+Exam 1,75
+Exam 2,
+Lab assignments,100,90,95,85,75,95,90,90,70,100,95
+Class activities,100,95,80,50,90,100,70,80,92,50,80
+Dept Modules,95
+Industry essay,100
+DI Sat essay,
+Project,
